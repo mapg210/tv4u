@@ -287,3 +287,17 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="KIDS",Tooncast
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=328&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="KIDS",Discovery Kids
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=303&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=312&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="KIDS",Disney Junior
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=308&f=.m3u8
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="KIDS",Nick
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=315&f=.m3u8
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="KIDS",Nick Jr.
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=310&f=.m3u8
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="Teennick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnick.png" group-title="KIDS",Teennick
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2147&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
